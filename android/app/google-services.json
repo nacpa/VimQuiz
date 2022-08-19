@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "540089355625",
+    "project_id": "vimquiz",
+    "storage_bucket": "vimquiz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540089355625:android:860b214c05b8eed1a4c1f8",
+        "android_client_info": {
+          "package_name": "com.example.vimquiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540089355625-jasug841dmqc7j4comddvdmc7admjt4u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxNy7sVqQauU89QtqX6s0vLYmcFN2S64k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540089355625-jasug841dmqc7j4comddvdmc7admjt4u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
